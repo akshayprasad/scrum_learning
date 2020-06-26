@@ -100,11 +100,73 @@ So for example green defines easy tasks that can be done in the next sprint for 
 
 
 ## Let's understand planning board better in an example
-<li><b>Product Backlog: </b>All the project stories reside here.</li>
-<li><b>Sprint Backlog: </b>The stories that should be done in the current sprint are here and the team focus to finish them all by the end of the sprint.</li>
-<li><b>Working On: </b>Team members take a story from the 'Sprint Backlog' column and put them here to show others what are they currently working on. This is needed for transparency and improving productivity.</li>
-<li><b>Done: </b>This column is the place where all completed stories go. Ideally, all of the stories in 'Sprint Backlog' should be here by the end of the sprint.</li>
+<li><b>Product Backlog: </b>All the project stories reside here. (Stories in the picture)</li>
+<li><b>Sprint Backlog: </b>The stories that should be done in the current sprint are here and the team focus to finish them all by the end of the sprint. (Stories in the picture)</li>
+<li><b>Tasks in progess: </b>Team members take a story from the 'Sprint Backlog' column and put them here to show others what are they currently working on. This is needed for transparency and improving productivity.</li>
+<li><b>Task is completed: </b>This column is the place where all completed stories go. Ideally, all of the stories in 'Sprint Backlog' should be here by the end of the sprint.</li>
+<li><b>Task is closed: </b>This column is the place where all done stories go. (<b>Managers do this job usually</b>)</li>
 
-As each sprint starts, some stories will be moved to 'Sprint Backlog' from the 'Product Backlog' and all of those in the 'Sprint Backlog' should be moved to the 'Done' column.
+As each sprint starts, some stories will be moved to 'Sprint Backlog' from the 'Product Backlog' and all of those in the 'Sprint Backlog' should be moved to the 'Task completed' column.
 
 ![Alt text](./sprint_progress.png?raw=true,"View")
+
+
+
+## Sprint working style
+So as we know, after each sprint, our product should be in a stable state. But how is that possible? Well, we need some rules and meetings which are called sprint rituals.
+
+
+### Sprint planning
+
+Occurs at the start of the sprint. Teams review the product backlog, pick up some of the high priority tasks and try to deliver them by the end of the sprint.
+
+How long does it take? This meeting can take a whole day, but shorter sprints only need a couple of hours or so.
+
+What are its results? After the meeting we will have sprint backlog. It includes some tasks that need to be done in the current sprint from the product backlog.
+
+### Stand up (Daily Scrum):
+Occurs early in the day at an exact hour and each team member needs to answer to the following three questions:
+
+<ol>
+<li>What has been done yesterday?</li>
+<li>What are we going to do today?</li>
+<li>Are there any problems blocking you?</li>
+</ol>
+
+Scrum master should help to solve the blocking problems and impediments. Sometimes the problems can be solved in a timely manner but other times, there might be a serious issue that solving it itself would take a couple of weeks. Resolving any blocking issue that is preventing the development process should be the team's high priority.
+
+How long does it take? Stand up should be fairly quick, each team member should only speak for a couple of minutes. That's why all team members stand up and speak, so after a little while if you have seen that someone is looking for a chair to sit, it's probable that the meeting has gone too far!
+
+What are its results? Transparency about what each team member is working on and identifying the impediments.
+
+
+### Sprint review:
+Occurs at the end of the sprint. Developers, scrum master and product owner discuss what has been achieved during the sprint. And a Demo should be prepared to show to the product owner the new features that has been added.
+
+How long does it take? Well not more than an hour or so. It depends on the number of features and how you like to showcase your demo.
+
+What are its results? Based on the demo, product owner can decide whether to publish a new version of the application or not. Sometimes although the added feature is not completed yet, a release will help to gain users' feedbacks early in order to decide what to modify to satisfy more users as much as possible.
+
+### Sprint retrospective:
+Occurs at the end of the sprint. In this meeting developers provide feedback about what went well in the passed sprint and what went badly. There are no right or wrong answers here, developers simply give their own opinions. They should put aside their own personal feelings and speak about what is bothering them.
+
+How long does it take? It's a short meeting that wouldn't take more than an hour if there were no serious issues that is bothering team members.
+
+What are its results? The most important thing is to propose a solution for any problem and let everyone a couple of minutes to think about it so that we can avoid it for the next sprint.
+
+
+## Some tools to look for handling Scrum 
+<ul>
+    <li>nTask</li>
+    <li>Jira</li>
+    <li>Targetprocess</li>
+
+    ```js
+    I personally used Jira in the previos company where I worked
+    ```
+</ul>
+
+
+## Signing off:
+Akshay Prasad 
+#Developer #TechEnthusiast
