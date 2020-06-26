@@ -8,13 +8,13 @@ Agile is a different approach to software development which replaces the old sch
 
 ![Alt text](./agile_2.jpg?raw=true,"View")
 
-In Waterfall model one would consider the whole project at the beginning and do the following step by step: Define/Analyse, Build and release.
+In <b>Waterfall model</b> one would consider the whole project at the beginning and do the following step by step: Define/Analyse, Build and release.
 Each of these steps should be completely done before proceeding to the next stage. But the problem with this process and the model is that when a change happens at the middle of the project then you will face huge problems, as you didn't have any plans for it!
 
 In Agile development you first define different pieces for your project and then do all the steps mentioned in the Waterfall process for each piece.
 Agile methods use an iterative approach to a project with tight feedback loops that enable rapid adaptation when a new information or requirement for the project becomes available.
 
-<b>In simple terms, you are agile!</b> And instead of predicting the whole project requirements right at the beginning, like how you do it in the Waterfall process, you are an adapter and accept the fact that change may happen! So as an adapter you adapt yourself along the way as the project is moving forward.
+<b>In simple terms instead of predicting the whole project requirements right at the beginning, like how you do it in the Waterfall process, you are an adapter and accept the fact that change may happen! So as an adapter you adapt yourself along the way as the project is moving forward.
 
 ## What is Scrum?
 
@@ -81,7 +81,7 @@ So in a nutshell, each sprint has a defined number of tasks and they happen in a
 ## Estimation of work in sprints?
 Before starting a new sprint, we should decide which stories need to be done in the upcoming sprint.(<b>Important and complicated task</b>)
 
-Scrun product owner will have few stories that team needs to work on. This list of stories contains more work than the team can achieve in a sprint, specially at first days of the project. The Scrum master needs to convince the product owner, how much work can be done in a sprint, and over time the product owner learns the approximate velocity of the team and also the team's productivity increases.
+Scrum product owner will have few stories that team needs to work on. This list of stories contains more work than the team can achieve in a sprint, specially at first days of the project. The Scrum master needs to convince the product owner, how much work can be done in a sprint, and over time the product owner learns the approximate velocity of the team and also the team's productivity increases.
 
 Now in order to understand our velocity, estimate how much time each story may take to be done and in overall how many stories can be done in a sprint, there are a couple of ways which help us in this process.
 
