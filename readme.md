@@ -168,7 +168,7 @@ What are its results? The most important thing is to propose a solution for any 
 
    <b>Note: </b>
    <ul>
-        I personally used Jira in the previos company where I worked
+        I personally used Jira for the projects.
     </ul>
 </ul>
 
