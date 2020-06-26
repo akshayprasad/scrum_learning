@@ -85,10 +85,10 @@ Scrum product owner will have few stories that team needs to work on. This list 
 
 Now in order to understand our velocity, estimate how much time each story may take to be done and in overall how many stories can be done in a sprint, there are a couple of ways which help us in this process.
 
-<div style="margin-left: 20px;">
+<div style="display: block; margin-left: 20px;">
 <li><b>Story points: </b> It's one of the most common methods for estimating stories. A story point is actually the simplest story to be done and developers refer to it as the story of having one point. In some projects it can be only a ten minutes work, such as fixing an UI element; whereas, in some more complex projects it can be a two hours work which includes more than one person to complete.
 There are several point techniques to better help estimate stories:
-    <ul>
+    <ul style="margin-left: 20px;">
         <li>Use Fibonacci Numbers: 1,2,3,5,8 (and maybe 13, but a 13-sized story seems too big).</li>
     </ul>
 </li>
