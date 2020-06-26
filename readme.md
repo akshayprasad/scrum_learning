@@ -1,3 +1,5 @@
+
+![Alt text](./scrum-logo.jpg?raw=true,"View")
 # Learn scrum
 
 In this learning we will see what is <b>Agile Development</b>. Also, We'll see in detail how to manage a project using the Scrum techique which is a form or the flavor of Agile.
