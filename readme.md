@@ -88,7 +88,7 @@ Now in order to understand our velocity, estimate how much time each story may t
 <span style="margin-left: 20px;">
 <li><b>Story points: </b> It's one of the most common methods for estimating stories. A story point is actually the simplest story to be done and developers refer to it as the story of having one point. In some projects it can be only a ten minutes work, such as fixing an UI element; whereas, in some more complex projects it can be a two hours work which includes more than one person to complete.
 There are several point techniques to better help estimate stories:
-    <ul style="margin-left: 20px;">
+    <ul style="margin-left: 20px;"><br/>
         <li>Use Fibonacci Numbers: 1,2,3,5,8 (and maybe 13, but a 13-sized story seems too big).</li>
     </ul>
 </li>
@@ -100,15 +100,16 @@ So for example green defines easy tasks that can be done in the next sprint for 
 <li><b>T-Shirt Sizes: </b>We can use sizes like S, M, L, XL, XXL for our stories. This technique simply gives up on comparing story complexity with time of completion.</li>
 </span>
 
+<br/>
 <b>Estimation is a really important thing that we need to consider. Product owner and stakeholders need to know what to expect at the end of the sprint, they should be able to know when to release the product and what features are ready.</b>
 
 
 ## Let's understand planning board better in an example
-<li><b>Product Backlog: </b>All the project stories reside here. (Stories in the picture)</li>
-<li><b>Sprint Backlog: </b>The stories that should be done in the current sprint are here and the team focus to finish them all by the end of the sprint. (Stories in the picture)</li>
-<li><b>Tasks in progess: </b>Team members take a story from the 'Sprint Backlog' column and put them here to show others what are they currently working on. This is needed for transparency and improving productivity.</li>
-<li><b>Task is completed: </b>This column is the place where all completed stories go. Ideally, all of the stories in 'Sprint Backlog' should be here by the end of the sprint.</li>
-<li><b>Task is closed: </b>This column is the place where all done stories go. (<b>Managers do this job usually</b>)</li>
+<li><b>Product Backlog: </b>All the project stories reside here. (Stories in the picture)</li><br/>
+<li><b>Sprint Backlog: </b>The stories that should be done in the current sprint are here and the team focus to finish them all by the end of the sprint. (Stories in the picture)</li><br/>
+<li><b>Tasks in progess: </b>Team members take a story from the 'Sprint Backlog' column and put them here to show others what are they currently working on. This is needed for transparency and improving productivity.</li><br/>
+<li><b>Task is completed: </b>This column is the place where all completed stories go. Ideally, all of the stories in 'Sprint Backlog' should be here by the end of the sprint.</li><br/>
+<li><b>Task is closed: </b>This column is the place where all done stories go. (<b>Managers do this job usually</b>)</li><br/>
 
 As each sprint starts, some stories will be moved to 'Sprint Backlog' from the 'Product Backlog' and all of those in the 'Sprint Backlog' should be moved to the 'Task completed' column.
 
