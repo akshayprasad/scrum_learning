@@ -95,7 +95,7 @@ There are several point techniques to better help estimate stories:
 
 <li><b>Semaphores: </b> we can associate stories with colors instead of numbers to defines the complexity level of a story.
 So for example green defines easy tasks that can be done in the next sprint for sure, yellow is for a little complex story that may involve more than one person but still can be completed in the next sprint, red is for the story that is extremely difficult and cannot be finished in a single sprint.
-</li>
+</li><br/>
 
 <li><b>T-Shirt Sizes: </b>We can use sizes like S, M, L, XL, XXL for our stories. This technique simply gives up on comparing story complexity with time of completion.</li>
 </span>
@@ -166,12 +166,12 @@ What are its results? The most important thing is to propose a solution for any 
     <li>Jira</li>
     <li>Targetprocess</li>
 
-    ```js
-    I personally used Jira in the previos company where I worked
-    ```
+   ** Note: **
+    - I personally used Jira in the previos company where I worked
+    
 </ul>
 
 
 ## Signing off:
-Akshay Prasad 
+<b>Akshay Prasad</b> <br/>
 #Developer #TechEnthusiast
