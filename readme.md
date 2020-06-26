@@ -18,22 +18,25 @@ Agile methods use an iterative approach to a project with tight feedback loops t
 
 ## What is Scrum?
 
-Scrum is one of the most and widely followed agile techniques.
+Scrum is one of the most and widely followed Agile techniques.
 
 ### Why do we need scrum?
 
 First let's just mention some of the problems that the traditional Waterfall project development process has:
 
 <ul>
-<li><b>Teams work completely independent from each other</b> and each sub-team completes its own activities before the other one starts its own. So what is the problem? An issue on one team, blocks the whole production line!</li>
-<li><b>Everything is decided up-front!</b> So what is the problem? Well, although the client has mentioned what she needs at the beginning of the project, but in reality what she wants may change over the course of the project, and it's not her fault! It's just how the things are... No one can completely predict the project requirements and insist on that! Things may change and new decisions must be made.</li>
-<li><b>Weak estimations!</b> As the tasks increase, the accuracy of how long each task takes decreases... Because unforeseen issues always arise, like bugs or client requirement changes</li>
+    <li><b>Teams work completely independent from each other</b> and each sub-team completes its own activities before the other one starts its own. So what is the problem? An issue on one team, blocks the whole production line!</li>
+    <li><b>Everything is decided up-front!</b> So what is the problem? Well, although the client has mentioned what she needs at the beginning of the project, but in reality what she wants may change over the course of the project, and it's not her fault! It's just how the things are... No one can completely predict the project requirements and insist on that! Things may change and new decisions must be made.</li>
+    <li><b>Weak estimations!</b> As the tasks increase, the accuracy of how long each task takes decreases... Because unforeseen issues always arise, like bugs or client requirement changes</li>
 </ul>
 
 The scrum tried resolving the above mentioned problems:
 <ul>
-<li>Inspecting the project's progress</li>
-<li>Evaluating the project's progress</li>
-<li>Adapting to the requirement of the project's in the pathway </li>
-<li>More importantly, the transparency is maintained through out the project </li>
+    <li>Inspecting the project's progress</li>
+    <li>Evaluating the project's progress</li>
+    <li>Adapting to the requirement of the project's in the pathway </li>
+    <li>More importantly, the transparency is maintained through out the project </li>
 </ul>
+
+## The scrum team and the people involved
+![Alt text](./scrum_team_players.jpg?raw=true,"View")
