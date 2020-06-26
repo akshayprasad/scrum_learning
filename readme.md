@@ -14,7 +14,7 @@ Each of these steps should be completely done before proceeding to the next stag
 In Agile development you first define different pieces for your project and then do all the steps mentioned in the Waterfall process for each piece.
 Agile methods use an iterative approach to a project with tight feedback loops that enable rapid adaptation when a new information or requirement for the project becomes available.
 
-<b>In simple terms instead of predicting the whole project requirements right at the beginning, like how you do it in the Waterfall process, you are an adapter and accept the fact that change may happen! So as an adapter you adapt yourself along the way as the project is moving forward.
+In simple terms instead of predicting the whole project requirements right at the beginning, like how you do it in the Waterfall process, you are an adapter and accept the fact that change may happen! So as an adapter you adapt yourself along the way as the project is moving forward.
 
 ## What is Scrum?
 
