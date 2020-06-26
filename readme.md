@@ -166,9 +166,10 @@ What are its results? The most important thing is to propose a solution for any 
     <li>Jira</li>
     <li>Targetprocess</li>
 
-   ** Note: **
-    - I personally used Jira in the previos company where I worked
-    
+   <b>Note: </b>
+   <ul>
+        I personally used Jira in the previos company where I worked
+    </ul>
 </ul>
 
 
