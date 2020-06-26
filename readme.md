@@ -85,7 +85,7 @@ Scrum product owner will have few stories that team needs to work on. This list 
 
 Now in order to understand our velocity, estimate how much time each story may take to be done and in overall how many stories can be done in a sprint, there are a couple of ways which help us in this process.
 
-<div style="display: block; margin-left: 20px;">
+<span style="margin-left: 20px;">
 <li><b>Story points: </b> It's one of the most common methods for estimating stories. A story point is actually the simplest story to be done and developers refer to it as the story of having one point. In some projects it can be only a ten minutes work, such as fixing an UI element; whereas, in some more complex projects it can be a two hours work which includes more than one person to complete.
 There are several point techniques to better help estimate stories:
     <ul style="margin-left: 20px;">
@@ -98,7 +98,7 @@ So for example green defines easy tasks that can be done in the next sprint for 
 </li>
 
 <li><b>T-Shirt Sizes: </b>We can use sizes like S, M, L, XL, XXL for our stories. This technique simply gives up on comparing story complexity with time of completion.</li>
-</div>
+</span>
 
 <b>Estimation is a really important thing that we need to consider. Product owner and stakeholders need to know what to expect at the end of the sprint, they should be able to know when to release the product and what features are ready.</b>
 
