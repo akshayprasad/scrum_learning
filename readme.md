@@ -6,7 +6,7 @@ In this learning we will see what is <b>Agile Development</b>. Also, We'll see i
 
 ## What is Agile Development?
 
-Agile is a different approach to software development which replaces the old school Waterfall software development process.
+<b>Agile</b> is a different approach to software development which replaces the old methology <b>Waterfall software development process</b>.
 
 ![Alt text](./agile_2.jpg?raw=true,"View")
 
