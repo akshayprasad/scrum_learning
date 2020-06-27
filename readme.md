@@ -174,5 +174,5 @@ What are its results? The most important thing is to propose a solution for any 
 
 
 ## Signing off:
-<b>Akshay Prasad</b> <br/>
-#Developer #TechEnthusiast
+<b><i>Akshay Prasad</i></b> <br/>
+<b>#Developer #TechEnthusiast #Agile #Agilelearning #scrum #scrumlearning #projectmanagement #software</b>
