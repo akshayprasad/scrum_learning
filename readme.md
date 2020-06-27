@@ -1,5 +1,5 @@
 
-![Agile vs Waterfall](https://github.com/akshayprasad/scrum_learning/images/scrum-logo.jpg)
+![Agile vs Waterfall](https://github.com/akshayprasad/scrum_learning/blob/master/images/scrum-logo.jpg)
 # Learn scrum
 
 In this learning we will see what is <b>Agile Development</b>. Also, We'll see in detail how to manage a project using the Scrum techique which is a form or the flavor of Agile.
@@ -8,7 +8,7 @@ In this learning we will see what is <b>Agile Development</b>. Also, We'll see i
 
 <b>Agile</b> is a different approach to software development which replaces the old methology <b>Waterfall software development process</b>.
 
-![Agile methodology](https://github.com/akshayprasad/scrum_learning/images/agile_2.jpg)
+![Agile methodology](https://github.com/akshayprasad/scrum_learning/blob/master/images/agile_2.jpg)
 
 In <b>Waterfall model</b> one would consider the whole project at the beginning and do the following step by step: Define/Analyse, Build and release.
 Each of these steps should be completely done before proceeding to the next stage. But the problem with this process and the model is that when a change happens at the middle of the project then you will face huge problems, as you didn't have any plans for it!
@@ -41,7 +41,7 @@ The scrum tried resolving the above mentioned problems:
 </ul>
 
 ## The scrum team and the people involved
-![Scrum players](https://github.com/akshayprasad/scrum_learning/images/scrum_team_players.jpg)
+![Scrum players](https://github.com/akshayprasad/scrum_learning/blob/master/images/scrum_team_players.jpg)
 
 <ul>
     <li><b>Scrum product owner</b> This person is responsible for the overall project. They tells the features to be included and the main focus areas that team should be concerned about. They contact the stakeholders and are the point of communication to the enhance the value and significane of the project.</li>
@@ -115,7 +115,7 @@ So for example green defines easy tasks that can be done in the next sprint for 
 
 As each sprint starts, some stories will be moved to 'Sprint Backlog' from the 'Product Backlog' and all of those in the 'Sprint Backlog' should be moved to the 'Task completed' column.
 
-![Sprint process](https://github.com/akshayprasad/scrum_learning/images/sprint_progress.png)
+![Sprint process](https://github.com/akshayprasad/scrum_learning/blob/master/images/sprint_progress.png)
 
 ## Sprint working style
 So as we know, after each sprint, our product should be in a stable state. But how is that possible? Well, we need some rules and meetings which are called sprint rituals.
